@@ -1,4 +1,8 @@
+body {
+  background-color: red;
+}
+
 header {
   height: 50vh;
-  background: red;
+  background: steelblue;
 }/*# sourceMappingURL=style.css.map */

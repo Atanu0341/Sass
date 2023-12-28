@@ -1,10 +1,11 @@
 $redColor:red;
+$steelblueColor:steelblue;
 
 body{
-    // background-color: $redColor;
+    background-color: $redColor;
 }
 
 header{
     height: 50vh;
-    background: $redColor;
+    background: $steelblueColor;
 }
