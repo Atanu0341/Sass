@@ -1,0 +1,10 @@
+header {
+  height: 50vh;
+  background: crimson;
+}
+header nav {
+  border: 5px solid teal;
+}
+header ul {
+  display: flex;
+}/*# sourceMappingURL=style.css.map */
